@@ -2,8 +2,6 @@
 #include <ESP8266WiFi.h>
 
 //WIFI PARAMETERS
-//const char* ssid = "Livebox-6B10";
-//const char* password = "3UjabNfriQeaVAG4ux";
 const char* ssid = "ArnCo";
 const char* password = "itlz1602";
 #define LISTEN_PORT 80
