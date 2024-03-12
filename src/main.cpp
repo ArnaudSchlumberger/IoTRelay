@@ -96,9 +96,9 @@ void loop() {
   } 
   else{
     digitalWrite(LED_BUILTIN,0);
-    delay(500);
+    delay(900);
     digitalWrite(LED_BUILTIN,1);
-    delay(500);
+    delay(100);
   }
   //reinitialisation header and c pour garantir entrée dans la prochaine boucle if(client)/while
   header = "";
